@@ -55,8 +55,11 @@ Final evaluation at threshold 0.89 on the final half (377,985 flows, 62,412 atta
 
 Recall by attack type at 0.89: DDoS 0.999, DoS Hulk 0.998, DoS GoldenEye 0.991, DoS slowloris 0.997, PortScan 0.995, FTP-Patator 1.000, SSH-Patator 0.994, Web Brute Force 0.997, Bot 0.772, Infiltration 0.750 (8 flows), Web XSS 0.364 (11 flows), Heartbleed 0.000 (11 flows, none in training).
 
-![PR curve](pr_curve.png)
+Confusion Matrix
 ![Confusion matrix](confusion_matrix.png)
+
+PR Curve
+![PR curve](pr_curve.png)
 
 ## Limitations
 
