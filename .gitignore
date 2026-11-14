@@ -1,0 +1,9 @@
+*.csv
+*.zip
+*.parquet
+*.pcap
+data/
+.venv/
+.idea/
+__pycache__/
+*.pyc
